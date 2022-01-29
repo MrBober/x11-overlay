@@ -20,6 +20,7 @@ For other distributions you need to [build](#building) a package from source.
 ## Building ##
 
 1. Install dependencies.
+
 For Debian you need to install packages `libx11-6`, `libxcomposite1`, `libxfixes3`, `libxcairo2`, build dependencies `libx11-dev`, `libxcomposite-dev`, `libxfixes-dev` and `libcairo-2`.
 For Arch you need to install packages `libx11`, `cairo`, `libxcomposite` and `libxfixes`.
 For other distros you need to install packages containing libraries `libX11`, `libXcomposite`, `libXfixes` and `Cairo`.
