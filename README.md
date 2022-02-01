@@ -4,7 +4,7 @@ Program to display simple shapes on the screen.
 ## Installation ##
 Download package from releases section and install it with your package manager.
 
-### Debian ###
+### Debian 11 ###
 ```
 apt install /path/to/package.deb
 ```
