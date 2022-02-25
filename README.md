@@ -38,12 +38,12 @@ cd x11-overlay
 make
 ```
 
-4. Install
+4. Install.  
 You may need to run it with elevated priveleges.
 ```
 make install
 ```
 
-5. Done
-The program should be installed.
+5. Done  
+The program should be installed.  
 You can use it by running `overlay`.
